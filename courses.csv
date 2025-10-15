@@ -1,0 +1,9 @@
+course_id,course_name,concentration,prerequisites
+CS101,Intro to Programming,Core,
+CS102,Data Structures,Core,CS101
+CS201,Algorithms,Core,CS102
+CS220,Databases,Software Systems,CS102
+CS240,Machine Learning,AI/ML,CS201
+CS260,Computer Vision,AI/ML,CS240
+CS270,Web Development,Software Systems,CS101
+CS280,Software Engineering,Software Systems,"CS270,CS220"

@@ -1,0 +1,14 @@
+# CoursePathChatbot
+
+A chatbot that helps students plan their course paths based on CSV data and OpenAI API integration.
+
+## Features
+- Suggests courses based on major and completed courses
+- Handles prerequisites and concentration requirements
+- Customizable input for extra classes or preferences
+- Built with Python and OpenAI API
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rai12324/CoursePathChatbot.git
