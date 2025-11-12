@@ -1,0 +1,102 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful academic advisor. Use this course catalog:\nITCS 5010: Topics in Computer Science (nan) | Prerequisites: None\nITCS 5102: Survey of Programming Languages (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 5121: Information Visualization (nan) | Prerequisites: None\nITCS 5122: Visual Analytics (Data Science Concentration) | Prerequisites: \"STAT 1220, STAT 1221, STAT 1222, STAT 2122, STAT 2223\"\nITCS 5123: Visualization and Visual Communication (Data Science Concentration) | Prerequisites: None\nITCS 5141: Computer System and Architecture: Software's Perspective (nan) | Prerequisites: None\nITCS 5150: Mobile Robotics (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 5153: Applied Artificial Intelligence (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration) | Prerequisites: None\nITCS 5154: Applied Machine Learning (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 5161: Intellectual Property Aspects of Computing (nan) | Prerequisites: None\nITCS 5180: Mobile Application Development (\"Software, Systems, and Networks Concentration\", Capstone) | Prerequisites: None\nITCS 5182: Introduction to High Performance Computing (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 5230: Introduction to Game Design and Development (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 5231: Advanced Game Design and Development (\"AI, Robotics, and Gaming Concentration\", Capstone) | Prerequisites: None\nITCS 5232: Game Design and Development Studio (\"AI, Robotics, and Gaming Concentration\", Capstone) | Prerequisites: None\nITCS 5235: Game Engine Construction (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 5236: Artificial Intelligence for Computer Games (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 5356: Introduction to Machine Learning (nan) | Prerequisites: None\nITCS 6010: Topics in Computer Science (nan) | Prerequisites: None\nITCS 6040: Topics in Data Science (Data Science Concentration) | Prerequisites: None\nITCS 6050: Topics in Artificial Intelligence (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6100: Big Data Analytics for Competitive Advantage (Data Science Concentration) | Prerequisites: None\nITCS 6101: Natural Language Processing (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6112: Software System Design and Implementation (\"Software, Systems, and Networks Concentration\", Capstone) | Prerequisites: None\nITCS 6114: Algorithms and Data Structures (nan) | Prerequisites: None\nITCS 6115: Advanced Algorithms (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6116: Optimization for Machine Learning (nan) | Prerequisites: None\nITCS 6120: Computer Graphics (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6121: Data and Information Visualization (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration) | Prerequisites: None\nITCS 6124: Illustrative Visualization (Data Science Concentration) | Prerequisites: None\nITCS 6125: Virtual and Augmented Reality (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6132: Modeling and Analysis of Communication Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6134: Digital Image Processing (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6141: Computer System and Architecture: Performance and Implementation (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6144: Operating Systems Design (nan) | Prerequisites: None\nITCS 6145: Parallel Computing (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6150: Artificial Intelligence (\"AI, Robotics, and Gaming Concentration\", Information Security and Privacy Concentration) | Prerequisites: None\nITCS 6151: Intelligent Robotics (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6152: Robot Motion Planning (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6155: Knowledge-Based Systems (Data Science Concentration) | Prerequisites: None\nITCS 6156: Machine Learning (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6157: Visual Databases (Data Science Concentration) | Prerequisites: None\nITCS 6160: Database Systems (Data Science Concentration) | Prerequisites: None\nITCS 6161: Advanced Topics in Database Systems (Data Science Concentration) | Prerequisites: None\nITCS 6162: Data Mining (Data Science Concentration) | Prerequisites: None\nITCS 6163: Data Warehousing (Data Science Concentration) | Prerequisites: None\nITCS 6165: Coding and Information Theory (nan) | Prerequisites: None\nITCS 6166: Computer Communications and Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6167: Advanced Networking Protocols (Information Security and Privacy Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6168: Wireless Communication Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6169: Computer Vision (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6190: Cloud Computing for Data Analysis (Data Science Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6216: Introduction to Cognitive Science (nan) | Prerequisites: None\nITCS 6265: Advanced Topics in Data Mining (Data Science Concentration) | Prerequisites: None\nITCS 6322: Complex Adaptive Systems (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 6345: Modern Data Science Systems (Data Science Concentration) | Prerequisites: None\nITCS 6490: Industrial Internship (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration, Information Security and Privacy Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 6617: Computational Human Behavior Modeling (nan) | Prerequisites: None\nITCS 6880: Individual Study (Capstone) | Prerequisites: None\nITCS 6881: Individual Study in AI, Robotics, and Gaming (\"AI, Robotics, and Gaming Concentration\", Capstone) | Prerequisites: None\nITCS 6882: Individual Study in Data Science (Data Science Concentration, Capstone) | Prerequisites: None\nITCS 6883: Individual Study in Software, Systems, and Networks (\"Software, Systems, and Networks Concentration\", Capstone) | Prerequisites: None\nITCS 6991: Computer Science Thesis (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration, \"Software, Systems, and Networks Concentration\", Capstone) | Prerequisites: None\nITCS 8010: Topics in Computer Science (nan) | Prerequisites: None\nITCS 8050: Topics in Artificial Intelligence (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8101: Natural Language Processing (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8112: Software Systems Design and Implementation (\"AI, Robotics, and Gaming Concentration\", \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8114: Algorithms and Data Structures (Data Science Concentration) | Prerequisites: None\nITCS 8115: Advanced Algorithms (nan) | Prerequisites: None\nITCS 8116: Optimization for Machine Learning (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8120: Computer Graphics (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8121: Data and Information Visualization (Data Science Concentration) | Prerequisites: None\nITCS 8124: Illustrative Visualization (Data Science Concentration) | Prerequisites: None\nITCS 8125: Virtual and Augmented Reality (nan) | Prerequisites: None\nITCS 8132: Modeling and Analysis of Communication Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8134: Digital Image Processing (nan) | Prerequisites: None\nITCS 8141: Computer System and Architecture: Performance and Implementation (\"AI, Robotics, and Gaming Concentration\", \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8144: Operating Systems Design (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8145: Parallel Computing (\"AI, Robotics, and Gaming Concentration\", \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8150: Artificial Intelligence (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8151: Intelligent Robotics (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8152: Robot Motion Planning (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8155: Knowledge-Based Systems (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8156: Machine Learning (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration) | Prerequisites: None\nITCS 8157: Visual Databases (Data Science Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8160: Database Systems (Data Science Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8161: Advanced Topics in Database Systems (Data Science Concentration, \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8162: Data Mining (Data Science Concentration) | Prerequisites: None\nITCS 8163: Data Warehousing (\"AI, Robotics, and Gaming Concentration\", Data Science Concentration) | Prerequisites: None\nITCS 8165: Coding and Information Theory (nan) | Prerequisites: None\nITCS 8166: Computer Communications and Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8167: Advanced Networking Protocols (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8168: Wireless Communication Networks (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITCS 8169: Computer Vision (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITCS 8190: Cloud Computing for Data Analysis (Data Science Concentration) | Prerequisites: None\nITCS 8224: Biomedical Image Processing (nan) | Prerequisites: None\nITCS 8322: Complex Adaptive Systems (\"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITSC 8110: Introduction to Computing and Information Systems Research (\"AI, Robotics, and Gaming Concentration\", \"Software, Systems, and Networks Concentration\") | Prerequisites: None\nITSC 8665: Graduate Teaching Seminar (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITSC 8699: Graduate Research Seminar (\"AI, Robotics, and Gaming Concentration\") | Prerequisites: None\nITSC 8880: Individual Study (nan) | Prerequisites: None\nITSC 8990: Pre-Dissertation Research (\"AI, Robotics, and Gaming Concentration\", Capstone) | Prerequisites: None\nITSC 8991: Doctoral Dissertation Research (\"AI, Robotics, and Gaming Concentration\", Capstone) | Prerequisites: None\nRecommend next courses respecting prerequisites."
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "can you give me a planned schedule"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "can you give me a planned schedule"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": " I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "(Error generating response.)"
+  },
+  {
+    "role": "user",
+    "content": "I would like to pursue a concentration in AI"
+  },
+  {
+    "role": "assistant",
+    "content": "That's great to hear! With a concentration in AI, there are several courses you can take to build your knowledge and skills in this area. Here's a recommended course schedule for your concentration in AI:\n\n### Semester 1\n1. **ITCS 5150: Mobile Robotics** - Explore the principles of robotics and AI integration.\n2. **ITCS 5153: Applied Artificial Intelligence** - Dive into real-world applications of AI.\n3. **ITCS 6156: Machine Learning** - Learn about various machine learning techniques.\n\n### Semester 2\n1. **ITCS 6101: Natural Language Processing** - Understand the interface between computers and human languages.\n2. **ITCS 6120: Computer Graphics** - Gain insights into graphics as they relate to AI.\n3. **ITCS 6151: Intelligent Robotics** - Focus on robotics with AI components.\n\n### Semester 3\n1. **ITCS 6150: Artificial Intelligence** - A comprehensive overview of AI concepts.\n2. **ITCS 6162: Data Mining** - Learn about extracting patterns from large datasets.\n3. **ITCS 8156: Machine Learning** - Advanced study of machine learning concepts.\n\n### Semester 4\n1. **ITCS 6155: Knowledge-Based Systems** - Explore systems that utilize knowledge representation.\n2. **ITCS 8163: Data Warehousing** - Focus on data management relevant for AI applications.\n3. **ITCS 8150: Artificial Intelligence (Advanced)** - Further deepen your understanding of AI applications.\n\n### Capstone or Individual Study\n1. **ITCS 6881: Individual Study in AI, Robotics, and Gaming** - A personal project or research in AI.\n2. **ITCS 6991: Computer Science Thesis** - If you're considering a thesis route.\n\n### Note:\nThis schedule is flexible and can be adjusted based on your prior knowledge, interests, and course availability. It's also helpful to consult with an academic advisor to tailor your specific academic plan, meet prerequisites, and any industry trends for job readiness post-graduation. \n\nIf you have more specific interests within AI or other topics, let me know, and I can adjust your schedule accordingly!"
+  },
+  {
+    "role": "user",
+    "content": "can you give me a planned schedule"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure! Here\u2019s a sample planned schedule for a concentration in AI, covering four semesters. This plan considers a balance of foundational courses, practical applications, and advanced topics in AI.\n\n### Semester 1\n1. **ITCS 5150: Mobile Robotics** \n   - Explore the principles of robotics.\n   \n2. **ITCS 5153: Applied Artificial Intelligence** \n   - Learn how to apply AI techniques in real-world scenarios.\n\n3. **ITCS 6101: Natural Language Processing** \n   - Study the interaction between computers and human language.\n\n### Semester 2\n1. **ITCS 6150: Artificial Intelligence** \n   - A comprehensive overview of AI concepts and techniques.\n\n2. **ITCS 6156: Machine Learning** \n   - Engage with various machine learning algorithms and their applications.\n\n3. **ITCS 6120: Computer Graphics** \n   - Understand the role of graphics in AI applications.\n\n### Semester 3\n1. **ITCS 5154: Applied Machine Learning** \n   - Focus on machine learning applications in diverse fields.\n\n2. **ITCS 6151: Intelligent Robotics** \n   - Dive deeper into robotics with intelligent features.\n\n3. **ITCS 6050: Topics in Artificial Intelligence** \n   - Explore current trends and research areas in AI. \n\n### Semester 4\n1. **ITCS 8150: Artificial Intelligence (Advanced)** \n   - Advanced topics in AI, including emerging technologies and methods.\n\n2. **ITCS 8162: Data Mining** \n   - Focus on techniques for discovering patterns in large datasets.\n\n3. **ITCS 6881: Individual Study in AI, Robotics, and Gaming** \n   - Conduct a personal project or research in AI for your capstone.\n\n### Optional or Elective Course\n- Throughout your studies, consider taking electives that enhance your expertise, such as **ITCS 6121: Data and Information Visualization**, **ITCS 6155: Knowledge-Based Systems**, or **ITCS 8163: Data Warehousing**.\n\n### Capstone/Thesis\n- If you are interested in a thesis, replace your individual study with **ITCS 6991: Computer Science Thesis** focused on a relevant AI topic.\n\n### Note:\nThis schedule serves as a guideline and can be adjusted based on course availability and your personal interests. Be sure to check with your academic advisor to ensure that you are meeting all requirements for your concentration and degree. If you have specific areas of AI that you want to explore further, please let me know!"
+  }
+]
